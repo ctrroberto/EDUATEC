@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20201110T185010Z
+UID:bigmarker_conference_d7e2e09f24bd@bigmarker.com
+DTSTART:20201111T000000Z
+DTEND:20201111T002125Z
+DESCRIPTION:Si nunca has utilizado marketing móvil este webinar te resulta
+ rá de gran utilidad para conocer el funcionamiento básico del panel de S
+ MS Masivos. \n\nSI ya tienes experiencia en marketing móvil en este webin
+ ar descubrirás las múltiples herramientas gratuitas que tiene nuestro pa
+ nel que te ayudarán a vender más\, generar bases de datos o cobrarle a t
+ us clientes de forma sencilla y automática.\n\n View and attend at https:
+ //www.bigmarker.com/livemedia/Conoce-SMS-Masivos-y-el-marketing-m-vil-5ef5
+ b3c552e8ebef8cefc758?bmid=80d51926f637
+LOCATION:https://www.bigmarker.com/livemedia/Conoce-SMS-Masivos-y-el-market
+ ing-m-vil-5ef5b3c552e8ebef8cefc758?bmid=80d51926f637
+ORGANIZER:info@BigMarker.com
+STATUS:CONFIRMED
+SUMMARY:Conoce SMS Masivos y el marketing móvil
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15M
+ATTACH:Basso
+END:VALARM
+END:VEVENT
+END:VCALENDAR
